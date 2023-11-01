@@ -4,7 +4,7 @@ from colorama import Fore, Style
 import pyttsx3
 
 MAX_LINE_LENGTH = 100  # Maximum characters per line for description
-api_key = "b51b714e4aa14dc89ad85d54e58cab25"
+api_key = "YOUR_API_KEY"
 
 query = input("What type of news are you interested in? ")
 num_headlines = int(input("How many headlines would you like to display? "))
